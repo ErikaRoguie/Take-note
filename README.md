@@ -27,5 +27,3 @@ https://courses.bootcampspot.com/courses/1090/files/1443568/preview
 Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.
 
 Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.
-
-Getting Started

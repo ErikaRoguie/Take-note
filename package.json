@@ -1,0 +1,27 @@
+{
+  "name": "take-note",
+  "version": "1.0.0",
+  "description": "A note taking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikaRoguie/Take-note.git"
+  },
+  "keywords": [
+    "Notes",
+    "class",
+    "events"
+  ],
+  "author": "Erika Sanders",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ErikaRoguie/Take-note/issues"
+  },
+  "homepage": "https://github.com/ErikaRoguie/Take-note#readme",
+  "dependencies": {
+    "package": "^1.0.1"
+  }
+}
